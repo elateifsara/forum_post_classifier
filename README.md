@@ -7,10 +7,11 @@ Build an amazon e-commerce forum (from DiscourseHub Community) post classifier t
 ## Instructions
 
 1. Train the model using the Colab notebook.
-2. Choose the type of deployment you want:
+2. Download the zipped model from colab and put it in either the `flask_version` folder or the `streamlit_version` folder depending on the one you want to work with.
+3. Choose the type of deployment you want:
     * Flask API
     * Streamlit  
-3. Follow the instructions in the README of each respective solution.  
+4. Follow the instructions in the README of each respective solution.  
 
 ## Remarks  
 

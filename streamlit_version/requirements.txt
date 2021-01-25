@@ -1,0 +1,5 @@
+streamlit
+tokenizers==0.9.4
+simpletransformers
+beautifulsoup4
+lxml

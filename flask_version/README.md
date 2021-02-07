@@ -3,7 +3,7 @@
 ## Run locally
 
 Run `pip install requirements.txt` to install all the needed libraries to run the app.
-Then type in the terminal `flask run app.py` that will run the flask API.
+Then type in the terminal `flask run` or `python app.py` that will run the flask API.
 
 **Note:**  
 Make sure you run the model notebook to generate the model files you will need to run the app.

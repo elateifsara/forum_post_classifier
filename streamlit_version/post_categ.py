@@ -8,7 +8,7 @@ def predict(post):
     """
     return model.predict(post)
 
-st.title('News Classification')
+st.title('Post forum Classifier')
 
 st.write("""
         Enter the title and the body of your post. The machine learning model

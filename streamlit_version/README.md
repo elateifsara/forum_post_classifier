@@ -3,7 +3,7 @@
 ## Run locally
 
 Run `pip install requirements.txt` to install all the needed libraries to run the app.
-Then type in the terminal `streamlit run post_categ.py` that will run the flask API.
+Then type in the terminal `streamlit run post_categ.py` that will run the streamlit app.
 
 **Note:**  
 Make sure you run the model notebook to generate the model files you will need to run the app.

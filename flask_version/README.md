@@ -25,6 +25,8 @@ Make sure you run the model notebook to generate the model files you will need t
 
 This app is based on the available resources:
 - [Develop a NLP Model in Python & Deploy It with Flask, Step by Step](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
+- [Running a Flask application inside a Docker container.](https://felipefaria.medium.com/running-a-simple-flask-application-inside-a-docker-container-b83bf3e07dd5)
+- [Build and Deploy your Machine Learning Application with Docker](https://dev.to/aminu_israel/build-and-deploy-your-machine-learning-application-with-docker-5322?fbclid=IwAR3lwF_Hzt5Gvte0Ci1GfbBJoABXoF9VEDdnvcsBQm5E9vSws1ZB7eVo7j8) 
 - [SMS-Message-Spam-Detector](https://github.com/susanli2016/SMS-Message-Spam-Detector)
 - [Simple transformers tutorial (which the model is built upon)](https://medium.com/swlh/simple-transformers-multi-class-text-classification-with-bert-roberta-xlnet-xlm-and-8b585000ce3a)
 - For the model please check out the provided notebook using Colab.
